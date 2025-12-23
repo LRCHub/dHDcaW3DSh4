@@ -1,103 +1,103 @@
-# ぶいすぽっ! – Gotcha!!
+# ぶいすぽっ！ – Gotcha!!
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-はじめよっか
-Cleverで完璧なFight
-(Yeah Yeah)
-(Yeah Yeah)
-Ready?
-BANG BANG BANG!
-今放った一途なこの気持ちは
-(Yeah Yeah)
-(Yeah Yeah)
-変わることはないぜ
-Gotcha!
-ブレブレの視線で
-繰り出した解答(アンサー)は
-抵抗なの?
-ねぇどうなの?
-派手な刺激を頂戴
-ありえんありえんありえんわ〜
-突然敵前逃亡か〜い
-Laggy Laggy
-とか宣(のたま)う前になぁ来いよ
-最高の相棒
-あたし達(ら)常に最強
-報酬でも栄光でも
-くれるなら全部欲しい
-足りない足りない足りないわ〜
-たくさんたくさんちょーだいな
-笑顔は無料(タダ)じゃ無いのよ
-Baby
-I gotcha!
-I gotcha!
-Keep shooting shooting more!
-I gotcha!
-I gotcha!
-Keep shooting shooting more!
-I gotcha!
-I gotcha!
-Keep shooting shooting more!
-I gotcha!
-I gotcha!
-And, just we do!
-はじめよっか
-PretyでCrazyなGAME
-(Yeah Yeah)
-(Yeah Yeah)
-Ready?
-BANG BANG BANG!
-ここに咲いた一途なこの気持ちは
-(Yeah Yeah)
-(Yeah Yeah)
-最終兵器(リーサルウェポン)
-希望が無くても どんな時でも
-最後の最後はキメてやる
-淀みなく目の前を瞬くワンフレーム
-(Yeah Yeah)
-(Yeah Yeah)
-撃ち抜いてやるよ
-Gotcha!
-このBout(バウト)抗うのは危険です!
-高まるこのSoundがレクイエム
-(えーい!)
-背後に気をつけな
-最期に言う言葉なんだ?
-散々なパターンにならないといいな
-消えない想いをずっと
-抱いてるんだ
-気が狂いそうになる程
-研ぎ澄ました感覚が
-その壁をぶち抜いていく
-I gotcha!
-I gotcha!
-Keep shooting shooting more!
-I gotcha!
-I gotcha!
-Keep shooting shooting more!
-I gotcha!
-I gotcha!
-Keep shooting shooting more!
-I gotcha!
-I gotcha!
-And, just we do!
-はじめよっか
-Cleverで完璧なFight
-(Yeah Yeah)
-(Yeah Yeah)
-Ready?
-BANG BANG BANG!
-今放った一途なこの気持ちは
-(Yeah Yeah)
-(Yeah Yeah)
-変わるわけがない
-希望が無くても どんな時でも
-最後の最後はキメてやる
-退屈な日常に輝くワンフレーム
-(Yeah Yeah)
-(Yeah Yeah)
-撃ち抜いてやるよ
-Gotcha!
+```lrc
+[00:02.35] はじめよっか
+[00:03.44] Cleverで完璧なFight
+[00:05.79] (Yeah Yeah)
+[00:06.78] (Yeah Yeah)
+[00:07.92] Ready?
+[00:08.25] BANG BANG BANG!
+[00:09.32] 今放った一途なこの気持ちは
+[00:13.06] (Yeah Yeah)
+[00:14.03] (Yeah Yeah)
+[00:14.86] 変わることはないぜ
+[00:16.84] Gotcha!
+[00:31.31] ブレブレの視線で
+[00:33.03] 繰り出した解答(アンサー)は
+[00:35.03] 抵抗なの?
+[00:35.90] ねぇどうなの?
+[00:36.77] 派手な刺激を頂戴
+[00:39.23] ありえんありえんありえんわ〜
+[00:40.98] 突然敵前逃亡か〜い
+[00:42.87] Laggy Laggy
+[00:43.72] とか宣(のたま)う前になぁ来いよ
+[00:46.10] 最高の相棒
+[00:47.57] あたし達(ら)常に最強
+[00:49.37] 報酬でも栄光でも
+[00:51.21] くれるなら全部欲しい
+[00:53.66] 足りない足りない足りないわ〜
+[00:55.48] たくさんたくさんちょーだいな
+[00:57.30] 笑顔は無料(タダ)じゃ無いのよ
+[01:00.25] Baby
+[01:00.83] I gotcha!
+[01:01.35] I gotcha!
+[01:02.03] Keep shooting shooting more!
+[01:03.70] I gotcha!
+[01:04.67] I gotcha!
+[01:05.54] Keep shooting shooting more!
+[01:07.31] I gotcha!
+[01:08.29] I gotcha!
+[01:09.20] Keep shooting shooting more!
+[01:10.92] I gotcha!
+[01:11.84] I gotcha!
+[01:12.91] And, just we do!
+[01:14.27] はじめよっか
+[01:15.44] PretyでCrazyなGAME
+[01:17.96] (Yeah Yeah)
+[01:18.95] (Yeah Yeah)
+[01:20.11] Ready?
+[01:20.37] BANG BANG BANG!
+[01:21.41] ここに咲いた一途なこの気持ちは
+[01:25.19] (Yeah Yeah)
+[01:26.18] (Yeah Yeah)
+[01:27.18] 最終兵器(リーサルウェポン)
+[01:29.25] 希望が無くても どんな時でも
+[01:32.68] 最後の最後はキメてやる
+[01:35.82] 淀みなく目の前を瞬くワンフレーム
+[01:39.66] (Yeah Yeah)
+[01:40.62] (Yeah Yeah)
+[01:41.55] 撃ち抜いてやるよ
+[01:43.42] Gotcha!
+[01:58.34] このBout(バウト)抗うのは危険です!
+[02:01.34] 高まるこのSoundがレクイエム
+[02:05.04] (えーい!)
+[02:05.49] 背後に気をつけな
+[02:06.83] 最期に言う言葉なんだ?
+[02:08.52] 散々なパターンにならないといいな
+[02:12.56] 消えない想いをずっと
+[02:15.21] 抱いてるんだ
+[02:16.94] 気が狂いそうになる程
+[02:20.28] 研ぎ澄ました感覚が
+[02:24.14] その壁をぶち抜いていく
+[02:41.45] I gotcha!
+[02:42.24] I gotcha!
+[02:43.01] Keep shooting shooting more!
+[02:44.80] I gotcha!
+[02:45.78] I gotcha!
+[02:46.66] Keep shooting shooting more!
+[02:48.38] I gotcha!
+[02:49.38] I gotcha!
+[02:50.29] Keep shooting shooting more!
+[02:51.95] I gotcha!
+[02:52.90] I gotcha!
+[02:53.88] And, just we do!
+[02:55.43] はじめよっか
+[02:56.54] Cleverで完璧なFight
+[02:59.06] (Yeah Yeah)
+[03:00.03] (Yeah Yeah)
+[03:01.19] Ready?
+[03:01.43] BANG BANG BANG!
+[03:02.46] 今放った一途なこの気持ちは
+[03:06.31] (Yeah Yeah)
+[03:07.25] (Yeah Yeah)
+[03:08.26] 変わるわけがない
+[03:09.98] 希望が無くても どんな時でも
+[03:13.71] 最後の最後はキメてやる
+[03:16.90] 退屈な日常に輝くワンフレーム
+[03:20.79] (Yeah Yeah)
+[03:21.68] (Yeah Yeah)
+[03:22.62] 撃ち抜いてやるよ
+[03:24.45] Gotcha!
 ```
