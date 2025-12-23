@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Gotcha!!",
+  "base_artist": "ぶいすぽっ！",
+  "createdAt": "2025-12-23T11:30:07.399132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Gotcha",
+      "artist": "Salt-N-Pepa",
+      "has_synced": true,
+      "path": "select/01_I_Gotcha_Salt-N-Pepa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Gotcha",
+      "artist": "Lupe Fiasco feat. Pharrell Williams",
+      "has_synced": false,
+      "path": "select/02_I_Gotcha_Lupe_Fiasco_feat._Pharrell_Williams.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Gotcha",
+      "artist": "Lupe Fiasco",
+      "has_synced": false,
+      "path": "select/03_I_Gotcha_Lupe_Fiasco.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Gotcha' Back",
+      "artist": "Aaliyah",
+      "has_synced": false,
+      "path": "select/04_I_Gotcha'_Back_Aaliyah.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Gotcha' Back",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/05_I_Gotcha'_Back_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Gotcha Back",
+      "artist": "Genius/GZA",
+      "has_synced": false,
+      "path": "select/06_I_Gotcha_Back_Genius_GZA.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Gotcha",
+      "artist": "Killer Mike",
+      "has_synced": false,
+      "path": "select/07_I_Gotcha_Killer_Mike.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gotcha Shakin'",
+      "artist": "Three 6 Mafia",
+      "has_synced": false,
+      "path": "select/08_Gotcha_Shakin'_Three_6_Mafia.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gotcha Shakin'",
+      "artist": "Three 6 Mafia",
+      "has_synced": true,
+      "path": "select/09_Gotcha_Shakin'_Three_6_Mafia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Gotcha",
+      "artist": "Salt‐N‐Pepa",
+      "has_synced": true,
+      "path": "select/10_I_Gotcha_Salt‐N‐Pepa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gotcha",
+      "artist": "Patricia Barber",
+      "has_synced": false,
+      "path": "select/11_Gotcha_Patricia_Barber.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gotcha",
+      "artist": "Joan Jett & The Blackhearts",
+      "has_synced": true,
+      "path": "select/12_Gotcha_Joan_Jett_&_The_Blackhearts.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Gotcha",
+      "artist": "Jimmy Barnes",
+      "has_synced": false,
+      "path": "select/13_I_Gotcha_Jimmy_Barnes.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I GOTCHA",
+      "artist": "Joe Tex",
+      "has_synced": true,
+      "path": "select/14_I_GOTCHA_Joe_Tex.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Gotcha",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/15_I_Gotcha_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Once It's Gotcha",
+      "artist": "Santana",
+      "has_synced": true,
+      "path": "select/16_Once_It's_Gotcha_Santana.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Gotcha",
+      "artist": "Joe Tex",
+      "has_synced": true,
+      "path": "select/17_I_Gotcha_Joe_Tex.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "GOTCHA",
+      "artist": "PARK JI HOON",
+      "has_synced": true,
+      "path": "select/18_GOTCHA_PARK_JI_HOON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gotcha!!",
+      "artist": "ぶいすぽっ!",
+      "has_synced": false,
+      "path": "select/pl_01_Gotcha!!_ぶいすぽっ!.txt"
+    }
+  ]
+}
