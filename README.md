@@ -1,103 +1,103 @@
-# ぶいすぽっ！ – Gotcha!!
+# ぶいすぽっ! – Gotcha!!
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:01.66] はじめよっか
-[00:03.41] Cleverで完璧なFight
-[00:05.67] (Yeah Yeah)
-[00:06.78] (Yeah Yeah)
-[00:07.76] Ready?
-[00:08.60] BANG BANG BANG!
-[00:09.40] 今放った一途なこの気持ちは
-[00:12.82] (Yeah Yeah)
-[00:13.90] (Yeah Yeah)
-[00:14.91] 変わることはないぜ
-[00:16.80] Gotcha!
-[00:30.89] ブレブレの視線で
-[00:33.04] 繰り出した解答(アンサー)は
-[00:34.98] 抵抗なの?
-[00:35.90] ねぇどうなの?
-[00:36.85] 派手な刺激を頂戴
-[00:39.24] ありえんありえんありえんわ〜
-[00:40.90] 突然敵前逃亡か〜い
-[00:42.83] Laggy Laggy
-[00:43.64] とか宣(のたま)う前になぁ来いよ
-[00:46.19] 最高の相棒
-[00:47.43] あたし達(ら)常に最強
-[00:49.34] 報酬でも栄光でも
-[00:51.13] くれるなら全部欲しい
-[00:53.57] 足りない足りない足りないわ〜
-[00:55.22] たくさんたくさんちょーだいな
-[00:57.16] 笑顔は無料(タダ)じゃ無いのよ
-[00:59.94] Baby
-[01:00.87] I gotcha!
-[01:01.37] I gotcha!
-[01:02.05] Keep shooting shooting more!
-[01:03.77] I gotcha!
-[01:04.65] I gotcha!
-[01:05.48] Keep shooting shooting more!
-[01:07.39] I gotcha!
-[01:08.34] I gotcha!
-[01:09.17] Keep shooting shooting more!
-[01:10.99] I gotcha!
-[01:12.08] I gotcha!
-[01:12.80] And, just we do!
-[01:14.24] はじめよっか
-[01:15.40] PretyでCrazyなGAME
-[01:17.94] (Yeah Yeah)
-[01:18.91] (Yeah Yeah)
-[01:19.98] Ready?
-[01:20.38] BANG BANG BANG!
-[01:21.39] ここに咲いた一途なこの気持ちは
-[01:25.25] (Yeah Yeah)
-[01:26.23] (Yeah Yeah)
-[01:27.19] 最終兵器(リーサルウェポン)
-[01:29.01] 希望が無くても どんな時でも
-[01:32.60] 最後の最後はキメてやる
-[01:35.87] 淀みなく目の前を瞬くワンフレーム
-[01:39.59] (Yeah Yeah)
-[01:40.65] (Yeah Yeah)
-[01:41.64] 撃ち抜いてやるよ
-[01:43.43] Gotcha!
-[01:57.62] このBout(バウト)抗うのは危険です!
-[02:01.34] 高まるこのSoundがレクイエム
-[02:05.02] (えーい!)
-[02:05.48] 背後に気をつけな
-[02:06.82] 最期に言う言葉なんだ?
-[02:08.49] 散々なパターンにならないといいな
-[02:12.52] 消えない想いをずっと
-[02:15.12] 抱いてるんだ
-[02:16.87] 気が狂いそうになる程
-[02:20.16] 研ぎ澄ました感覚が
-[02:24.43] その壁をぶち抜いていく
-[02:41.53] I gotcha!
-[02:42.28] I gotcha!
-[02:43.08] Keep shooting shooting more!
-[02:44.81] I gotcha!
-[02:45.74] I gotcha!
-[02:46.67] Keep shooting shooting more!
-[02:48.37] I gotcha!
-[02:49.38] I gotcha!
-[02:50.21] Keep shooting shooting more!
-[02:51.93] I gotcha!
-[02:52.95] I gotcha!
-[02:53.95] And, just we do!
-[02:55.37] はじめよっか
-[02:56.62] Cleverで完璧なFight
-[02:58.96] (Yeah Yeah)
-[02:59.98] (Yeah Yeah)
-[03:01.20] Ready?
-[03:01.47] BANG BANG BANG!
-[03:02.47] 今放った一途なこの気持ちは
-[03:06.31] (Yeah Yeah)
-[03:07.26] (Yeah Yeah)
-[03:08.18] 変わるわけがない
-[03:09.97] 希望が無くても どんな時でも
-[03:13.77] 最後の最後はキメてやる
-[03:16.98] 退屈な日常に輝くワンフレーム
-[03:20.67] (Yeah Yeah)
-[03:21.65] (Yeah Yeah)
-[03:22.72] 撃ち抜いてやるよ
-[03:24.54] Gotcha!
+```
+はじめよっか
+Cleverで完璧なFight
+(Yeah Yeah)
+(Yeah Yeah)
+Ready?
+BANG BANG BANG!
+今放った一途なこの気持ちは
+(Yeah Yeah)
+(Yeah Yeah)
+変わることはないぜ
+Gotcha!
+ブレブレの視線で
+繰り出した解答(アンサー)は
+抵抗なの?
+ねぇどうなの?
+派手な刺激を頂戴
+ありえんありえんありえんわ〜
+突然敵前逃亡か〜い
+Laggy Laggy
+とか宣(のたま)う前になぁ来いよ
+最高の相棒
+あたし達(ら)常に最強
+報酬でも栄光でも
+くれるなら全部欲しい
+足りない足りない足りないわ〜
+たくさんたくさんちょーだいな
+笑顔は無料(タダ)じゃ無いのよ
+Baby
+I gotcha!
+I gotcha!
+Keep shooting shooting more!
+I gotcha!
+I gotcha!
+Keep shooting shooting more!
+I gotcha!
+I gotcha!
+Keep shooting shooting more!
+I gotcha!
+I gotcha!
+And, just we do!
+はじめよっか
+PretyでCrazyなGAME
+(Yeah Yeah)
+(Yeah Yeah)
+Ready?
+BANG BANG BANG!
+ここに咲いた一途なこの気持ちは
+(Yeah Yeah)
+(Yeah Yeah)
+最終兵器(リーサルウェポン)
+希望が無くても どんな時でも
+最後の最後はキメてやる
+淀みなく目の前を瞬くワンフレーム
+(Yeah Yeah)
+(Yeah Yeah)
+撃ち抜いてやるよ
+Gotcha!
+このBout(バウト)抗うのは危険です!
+高まるこのSoundがレクイエム
+(えーい!)
+背後に気をつけな
+最期に言う言葉なんだ?
+散々なパターンにならないといいな
+消えない想いをずっと
+抱いてるんだ
+気が狂いそうになる程
+研ぎ澄ました感覚が
+その壁をぶち抜いていく
+I gotcha!
+I gotcha!
+Keep shooting shooting more!
+I gotcha!
+I gotcha!
+Keep shooting shooting more!
+I gotcha!
+I gotcha!
+Keep shooting shooting more!
+I gotcha!
+I gotcha!
+And, just we do!
+はじめよっか
+Cleverで完璧なFight
+(Yeah Yeah)
+(Yeah Yeah)
+Ready?
+BANG BANG BANG!
+今放った一途なこの気持ちは
+(Yeah Yeah)
+(Yeah Yeah)
+変わるわけがない
+希望が無くても どんな時でも
+最後の最後はキメてやる
+退屈な日常に輝くワンフレーム
+(Yeah Yeah)
+(Yeah Yeah)
+撃ち抜いてやるよ
+Gotcha!
 ```
